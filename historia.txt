@@ -5,5 +5,9 @@ esta linea tambien es nueva
 
 hoy hablarermos de su vida
 
+<<<<<<< HEAD
+=======
+bla bla bla bla
+>>>>>>> cabecera
 
 fin.
